@@ -1,0 +1,4 @@
+1: CS Sustain
+2: Flautando
+3: Tremolo
+4: Sharp Marcato
